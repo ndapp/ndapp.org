@@ -3,3 +3,4 @@ deploy.sh
 yarn-error.log
 dist
 .DS_Store
+dist.tar.gz
