@@ -36,6 +36,7 @@ module.exports = {
             template: 'src/sites/index.html',
             inject: 'body',
             xhtml: true,
+            favicon: 'favicon.ico',
             metadata: {
                 isDevServer: false
             },
