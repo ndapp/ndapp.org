@@ -455,6 +455,7 @@ body {
                     font-weight: 400;
                     padding: 8px 18px;
                     color: rgba(101, 105, 122, 1);
+                    background: none;
                     a {
                         color: $color;
                     }
@@ -538,6 +539,7 @@ body {
         .add-content {
             max-width: 1180px;
             margin: 0 auto;
+            display: flex;
             .meau {
                 display: inline-block;
                 width: 200px;
